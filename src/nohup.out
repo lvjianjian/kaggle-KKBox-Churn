@@ -1,0 +1,431 @@
+/usr/lib64/python2.7/site-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+../data/cache/train_do_trans1.csv  cache exist
+preprocess transactions take time 2.93027997017 s
+../data/cache/test_do_trans1.csv  cache exist
+preprocess transactions take time 2.69964694977 s
+../data/cache/train_do_logs1.csv  cache exist
+preprocess user logs feature take 7.79527807236 s
+../data/cache/test_do_logs1.csv  cache exist
+preprocess user logs feature take 7.55902886391 s
+../data/cache/train_do_trans2.csv  cache exist
+preprocess trans2 feature take 4.30069994926 s
+../data/cache/test_do_trans2.csv  cache exist
+preprocess trans2 feature take 4.19373989105 s
+[0]	train-logloss:0.666588
+Will train until train-logloss hasn't improved in 2 rounds.
+[1]	train-logloss:0.644667
+[2]	train-logloss:0.620915
+[3]	train-logloss:0.60009
+[4]	train-logloss:0.583851
+[5]	train-logloss:0.568472
+[6]	train-logloss:0.551151
+[7]	train-logloss:0.535715
+[8]	train-logloss:0.521175
+[9]	train-logloss:0.50841
+[10]	train-logloss:0.495582
+[11]	train-logloss:0.483758
+[12]	train-logloss:0.472837
+[13]	train-logloss:0.46265
+[14]	train-logloss:0.453899
+[15]	train-logloss:0.445224
+[16]	train-logloss:0.436951
+[17]	train-logloss:0.430039
+[18]	train-logloss:0.422487
+[19]	train-logloss:0.416693
+[20]	train-logloss:0.410179
+[21]	train-logloss:0.404004
+[22]	train-logloss:0.399639
+[23]	train-logloss:0.39459
+[24]	train-logloss:0.389584
+[25]	train-logloss:0.384972
+[26]	train-logloss:0.381219
+[27]	train-logloss:0.377568
+[28]	train-logloss:0.37391
+[29]	train-logloss:0.370201
+[30]	train-logloss:0.366702
+[31]	train-logloss:0.363605
+[32]	train-logloss:0.360791
+[33]	train-logloss:0.358054
+[34]	train-logloss:0.355673
+[35]	train-logloss:0.353362
+[36]	train-logloss:0.350863
+[37]	train-logloss:0.348906
+[38]	train-logloss:0.347079
+[39]	train-logloss:0.34545
+[40]	train-logloss:0.343797
+[41]	train-logloss:0.341794
+[42]	train-logloss:0.339886
+[43]	train-logloss:0.338676
+[44]	train-logloss:0.336979
+[45]	train-logloss:0.335877
+[46]	train-logloss:0.334841
+[47]	train-logloss:0.333524
+[48]	train-logloss:0.33228
+[49]	train-logloss:0.331104
+[50]	train-logloss:0.329946
+[51]	train-logloss:0.32862
+[52]	train-logloss:0.327677
+[53]	train-logloss:0.326995
+[54]	train-logloss:0.326158
+[55]	train-logloss:0.325366
+[56]	train-logloss:0.324782
+[57]	train-logloss:0.324071
+[58]	train-logloss:0.32331
+[59]	train-logloss:0.322723
+[60]	train-logloss:0.322014
+[61]	train-logloss:0.321563
+[62]	train-logloss:0.321017
+[63]	train-logloss:0.320248
+[64]	train-logloss:0.319915
+[65]	train-logloss:0.319419
+[66]	train-logloss:0.318846
+[67]	train-logloss:0.318177
+[68]	train-logloss:0.317777
+[69]	train-logloss:0.317444
+[70]	train-logloss:0.317008
+[71]	train-logloss:0.316504
+[72]	train-logloss:0.316139
+[73]	train-logloss:0.316076
+[74]	train-logloss:0.315649
+[75]	train-logloss:0.315152
+[76]	train-logloss:0.314722
+[77]	train-logloss:0.314571
+[78]	train-logloss:0.314107
+[79]	train-logloss:0.313572
+[80]	train-logloss:0.313204
+[81]	train-logloss:0.312904
+[82]	train-logloss:0.312724
+[83]	train-logloss:0.312509
+[84]	train-logloss:0.312264
+[85]	train-logloss:0.312056
+[86]	train-logloss:0.311752
+[87]	train-logloss:0.31147
+[88]	train-logloss:0.311196
+[89]	train-logloss:0.311034
+[90]	train-logloss:0.310793
+[91]	train-logloss:0.310642
+[92]	train-logloss:0.310416
+[93]	train-logloss:0.310152
+[94]	train-logloss:0.309781
+[95]	train-logloss:0.309526
+[96]	train-logloss:0.309273
+[97]	train-logloss:0.30912
+[98]	train-logloss:0.308964
+[99]	train-logloss:0.30887
+[100]	train-logloss:0.308598
+[101]	train-logloss:0.308468
+[102]	train-logloss:0.308363
+[103]	train-logloss:0.308237
+[104]	train-logloss:0.30786
+[105]	train-logloss:0.307586
+[106]	train-logloss:0.307327
+[107]	train-logloss:0.3072
+[108]	train-logloss:0.307102
+[109]	train-logloss:0.30691
+[110]	train-logloss:0.30675
+[111]	train-logloss:0.30657
+[112]	train-logloss:0.306504
+[113]	train-logloss:0.306163
+[114]	train-logloss:0.30602
+[115]	train-logloss:0.305958
+[116]	train-logloss:0.305875
+[117]	train-logloss:0.305785
+[118]	train-logloss:0.30563
+[119]	train-logloss:0.305557
+[120]	train-logloss:0.305492
+[121]	train-logloss:0.305396
+[122]	train-logloss:0.30526
+[123]	train-logloss:0.30516
+[124]	train-logloss:0.305036
+[125]	train-logloss:0.304948
+[126]	train-logloss:0.304834
+[127]	train-logloss:0.304701
+[128]	train-logloss:0.30458
+[129]	train-logloss:0.304494
+[130]	train-logloss:0.304237
+[131]	train-logloss:0.304094
+[132]	train-logloss:0.304033
+[133]	train-logloss:0.303869
+[134]	train-logloss:0.303765
+[135]	train-logloss:0.303643
+[136]	train-logloss:0.303424
+[137]	train-logloss:0.303181
+[138]	train-logloss:0.303054
+[139]	train-logloss:0.303018
+[140]	train-logloss:0.302785
+[141]	train-logloss:0.302593
+[142]	train-logloss:0.302398
+[143]	train-logloss:0.302285
+[144]	train-logloss:0.302127
+[145]	train-logloss:0.302003
+[146]	train-logloss:0.301847
+[147]	train-logloss:0.301756
+[148]	train-logloss:0.301629
+[149]	train-logloss:0.301461
+[150]	train-logloss:0.301354
+[151]	train-logloss:0.301273
+[152]	train-logloss:0.301182
+[153]	train-logloss:0.300988
+[154]	train-logloss:0.300829
+[155]	train-logloss:0.300721
+[156]	train-logloss:0.300482
+[157]	train-logloss:0.300311
+[158]	train-logloss:0.300212
+[159]	train-logloss:0.300117
+[160]	train-logloss:0.300037
+[161]	train-logloss:0.299901
+[162]	train-logloss:0.299651
+[163]	train-logloss:0.299527
+[164]	train-logloss:0.29929
+[165]	train-logloss:0.299161
+[166]	train-logloss:0.299015
+[167]	train-logloss:0.298902
+[168]	train-logloss:0.298801
+[169]	train-logloss:0.298634
+[170]	train-logloss:0.298565
+[171]	train-logloss:0.29849
+[172]	train-logloss:0.298385
+[173]	train-logloss:0.298306
+[174]	train-logloss:0.298203
+[175]	train-logloss:0.298124
+[176]	train-logloss:0.298083
+[177]	train-logloss:0.297874
+[178]	train-logloss:0.29776
+[179]	train-logloss:0.29761
+[180]	train-logloss:0.297453
+[181]	train-logloss:0.29741
+[182]	train-logloss:0.297366
+[183]	train-logloss:0.297281
+[184]	train-logloss:0.297208
+[185]	train-logloss:0.297106
+[186]	train-logloss:0.296995
+[187]	train-logloss:0.296816
+[188]	train-logloss:0.296708
+[189]	train-logloss:0.296649
+[190]	train-logloss:0.296574
+[191]	train-logloss:0.296485
+[192]	train-logloss:0.296394
+[193]	train-logloss:0.296268
+[194]	train-logloss:0.296177
+[195]	train-logloss:0.296097
+[196]	train-logloss:0.295996
+[197]	train-logloss:0.295842
+[198]	train-logloss:0.295746
+[199]	train-logloss:0.295634
+xgboost_model.py:56: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  test_m["is_churn"] = p1
+0.306774 0.966008 0.0125073
+(1980,)
+438
+rest train
+[0]	train-logloss:0.673786	valid-logloss:0.673792
+Multiple eval metrics have been passed: 'valid-logloss' will be used for early stopping.
+
+Will train until valid-logloss hasn't improved in 2 rounds.
+[1]	train-logloss:0.655185	valid-logloss:0.655195
+[2]	train-logloss:0.637353	valid-logloss:0.637365
+[3]	train-logloss:0.620121	valid-logloss:0.62014
+[4]	train-logloss:0.603586	valid-logloss:0.603614
+[5]	train-logloss:0.587664	valid-logloss:0.587692
+[6]	train-logloss:0.572234	valid-logloss:0.572269
+[7]	train-logloss:0.557351	valid-logloss:0.557391
+[8]	train-logloss:0.542985	valid-logloss:0.54303
+[9]	train-logloss:0.529106	valid-logloss:0.529154
+[10]	train-logloss:0.515749	valid-logloss:0.515798
+[11]	train-logloss:0.502791	valid-logloss:0.502847
+[12]	train-logloss:0.490257	valid-logloss:0.49032
+[13]	train-logloss:0.478238	valid-logloss:0.478305
+[14]	train-logloss:0.46649	valid-logloss:0.466563
+[15]	train-logloss:0.455083	valid-logloss:0.455161
+[16]	train-logloss:0.444056	valid-logloss:0.444134
+[17]	train-logloss:0.43337	valid-logloss:0.433452
+[18]	train-logloss:0.423016	valid-logloss:0.423104
+[19]	train-logloss:0.413	valid-logloss:0.413086
+[20]	train-logloss:0.403256	valid-logloss:0.403348
+[21]	train-logloss:0.393804	valid-logloss:0.393901
+[22]	train-logloss:0.384634	valid-logloss:0.384727
+[23]	train-logloss:0.375728	valid-logloss:0.375825
+[24]	train-logloss:0.367078	valid-logloss:0.36718
+[25]	train-logloss:0.358687	valid-logloss:0.358792
+[26]	train-logloss:0.350501	valid-logloss:0.350607
+[27]	train-logloss:0.342593	valid-logloss:0.342703
+[28]	train-logloss:0.334876	valid-logloss:0.33499
+[29]	train-logloss:0.327363	valid-logloss:0.327482
+[30]	train-logloss:0.320036	valid-logloss:0.320158
+[31]	train-logloss:0.312965	valid-logloss:0.313092
+[32]	train-logloss:0.306089	valid-logloss:0.306212
+[33]	train-logloss:0.299378	valid-logloss:0.299504
+[34]	train-logloss:0.292864	valid-logloss:0.29299
+[35]	train-logloss:0.286456	valid-logloss:0.286583
+[36]	train-logloss:0.280267	valid-logloss:0.280395
+[37]	train-logloss:0.274231	valid-logloss:0.274359
+[38]	train-logloss:0.268345	valid-logloss:0.268475
+[39]	train-logloss:0.262575	valid-logloss:0.262707
+[40]	train-logloss:0.257032	valid-logloss:0.257168
+[41]	train-logloss:0.251564	valid-logloss:0.251701
+[42]	train-logloss:0.246262	valid-logloss:0.246401
+[43]	train-logloss:0.241076	valid-logloss:0.241219
+[44]	train-logloss:0.236115	valid-logloss:0.236262
+[45]	train-logloss:0.231185	valid-logloss:0.231336
+[46]	train-logloss:0.226369	valid-logloss:0.226521
+[47]	train-logloss:0.221681	valid-logloss:0.221837
+[48]	train-logloss:0.217074	valid-logloss:0.217234
+[49]	train-logloss:0.212605	valid-logloss:0.212764
+[50]	train-logloss:0.208267	valid-logloss:0.208429
+[51]	train-logloss:0.203991	valid-logloss:0.204156
+[52]	train-logloss:0.199824	valid-logloss:0.199992
+[53]	train-logloss:0.195759	valid-logloss:0.195928
+[54]	train-logloss:0.191798	valid-logloss:0.191968
+[55]	train-logloss:0.187927	valid-logloss:0.188098
+[56]	train-logloss:0.184137	valid-logloss:0.184309
+[57]	train-logloss:0.180466	valid-logloss:0.180642
+[58]	train-logloss:0.176892	valid-logloss:0.177068
+[59]	train-logloss:0.173435	valid-logloss:0.173612
+[60]	train-logloss:0.170036	valid-logloss:0.170215
+[61]	train-logloss:0.166714	valid-logloss:0.166892
+[62]	train-logloss:0.163461	valid-logloss:0.163639
+[63]	train-logloss:0.160282	valid-logloss:0.160462
+[64]	train-logloss:0.157184	valid-logloss:0.157364
+[65]	train-logloss:0.154166	valid-logloss:0.154346
+[66]	train-logloss:0.151233	valid-logloss:0.151415
+[67]	train-logloss:0.148336	valid-logloss:0.148519
+[68]	train-logloss:0.14547	valid-logloss:0.145656
+[69]	train-logloss:0.142736	valid-logloss:0.142925
+[70]	train-logloss:0.140033	valid-logloss:0.140222
+[71]	train-logloss:0.137391	valid-logloss:0.137581
+[72]	train-logloss:0.134827	valid-logloss:0.135021
+[73]	train-logloss:0.132331	valid-logloss:0.132526
+[74]	train-logloss:0.129856	valid-logloss:0.130051
+[75]	train-logloss:0.12745	valid-logloss:0.127644
+[76]	train-logloss:0.12506	valid-logloss:0.125256
+[77]	train-logloss:0.122742	valid-logloss:0.122941
+[78]	train-logloss:0.120449	valid-logloss:0.120648
+[79]	train-logloss:0.118215	valid-logloss:0.118416
+[80]	train-logloss:0.116022	valid-logloss:0.116221
+[81]	train-logloss:0.113929	valid-logloss:0.114132
+[82]	train-logloss:0.111849	valid-logloss:0.112052
+[83]	train-logloss:0.109816	valid-logloss:0.110022
+[84]	train-logloss:0.107846	valid-logloss:0.108052
+[85]	train-logloss:0.10592	valid-logloss:0.106127
+[86]	train-logloss:0.10406	valid-logloss:0.104269
+[87]	train-logloss:0.102185	valid-logloss:0.102397
+[88]	train-logloss:0.100337	valid-logloss:0.100549
+[89]	train-logloss:0.098572	valid-logloss:0.098784
+[90]	train-logloss:0.096852	valid-logloss:0.097064
+[91]	train-logloss:0.095165	valid-logloss:0.095377
+[92]	train-logloss:0.093518	valid-logloss:0.093732
+[93]	train-logloss:0.091895	valid-logloss:0.092108
+[94]	train-logloss:0.09032	valid-logloss:0.090534
+[95]	train-logloss:0.088779	valid-logloss:0.088995
+[96]	train-logloss:0.087267	valid-logloss:0.087483
+[97]	train-logloss:0.085779	valid-logloss:0.085994
+[98]	train-logloss:0.084342	valid-logloss:0.084559
+[99]	train-logloss:0.08292	valid-logloss:0.083139
+[100]	train-logloss:0.08153	valid-logloss:0.081749
+[101]	train-logloss:0.080179	valid-logloss:0.080399
+[102]	train-logloss:0.078791	valid-logloss:0.079005
+[103]	train-logloss:0.077484	valid-logloss:0.0777
+[104]	train-logloss:0.076175	valid-logloss:0.076392
+[105]	train-logloss:0.074922	valid-logloss:0.075139
+[106]	train-logloss:0.073652	valid-logloss:0.073867
+[107]	train-logloss:0.07245	valid-logloss:0.072665
+[108]	train-logloss:0.071227	valid-logloss:0.07144
+[109]	train-logloss:0.070086	valid-logloss:0.070301
+[110]	train-logloss:0.068959	valid-logloss:0.069176
+[111]	train-logloss:0.06785	valid-logloss:0.068064
+[112]	train-logloss:0.066747	valid-logloss:0.066961
+[113]	train-logloss:0.065665	valid-logloss:0.065879
+[114]	train-logloss:0.064651	valid-logloss:0.064869
+[115]	train-logloss:0.063619	valid-logloss:0.063833
+[116]	train-logloss:0.062641	valid-logloss:0.062853
+[117]	train-logloss:0.061667	valid-logloss:0.061881
+[118]	train-logloss:0.060712	valid-logloss:0.060926
+[119]	train-logloss:0.059794	valid-logloss:0.06001
+[120]	train-logloss:0.058839	valid-logloss:0.059055
+[121]	train-logloss:0.057975	valid-logloss:0.058191
+[122]	train-logloss:0.057049	valid-logloss:0.057266
+[123]	train-logloss:0.056166	valid-logloss:0.056382
+[124]	train-logloss:0.055294	valid-logloss:0.05551
+[125]	train-logloss:0.054436	valid-logloss:0.054653
+[126]	train-logloss:0.053603	valid-logloss:0.053819
+[127]	train-logloss:0.05276	valid-logloss:0.052979
+[128]	train-logloss:0.052002	valid-logloss:0.052221
+[129]	train-logloss:0.051212	valid-logloss:0.051432
+[130]	train-logloss:0.050427	valid-logloss:0.050645
+[131]	train-logloss:0.049681	valid-logloss:0.049896
+[132]	train-logloss:0.049022	valid-logloss:0.049236
+[133]	train-logloss:0.048315	valid-logloss:0.04853
+[134]	train-logloss:0.047609	valid-logloss:0.047821
+[135]	train-logloss:0.046919	valid-logloss:0.047129
+[136]	train-logloss:0.046246	valid-logloss:0.046456
+[137]	train-logloss:0.045591	valid-logloss:0.0458
+[138]	train-logloss:0.044954	valid-logloss:0.045163
+[139]	train-logloss:0.044318	valid-logloss:0.044525
+[140]	train-logloss:0.043696	valid-logloss:0.043898
+[141]	train-logloss:0.043074	valid-logloss:0.04327
+[142]	train-logloss:0.042481	valid-logloss:0.042674
+[143]	train-logloss:0.041899	valid-logloss:0.042087
+[144]	train-logloss:0.041335	valid-logloss:0.041523
+[145]	train-logloss:0.040783	valid-logloss:0.04097
+[146]	train-logloss:0.040223	valid-logloss:0.040405
+[147]	train-logloss:0.039653	valid-logloss:0.039838
+[148]	train-logloss:0.039114	valid-logloss:0.039302
+[149]	train-logloss:0.03859	valid-logloss:0.038782
+[150]	train-logloss:0.038052	valid-logloss:0.038246
+[151]	train-logloss:0.03752	valid-logloss:0.037714
+[152]	train-logloss:0.037033	valid-logloss:0.037225
+[153]	train-logloss:0.036563	valid-logloss:0.036755
+[154]	train-logloss:0.036093	valid-logloss:0.036287
+[155]	train-logloss:0.035624	valid-logloss:0.03582
+[156]	train-logloss:0.035157	valid-logloss:0.035352
+[157]	train-logloss:0.034725	valid-logloss:0.03492
+[158]	train-logloss:0.034288	valid-logloss:0.034485
+[159]	train-logloss:0.033842	valid-logloss:0.034035
+[160]	train-logloss:0.033426	valid-logloss:0.033617
+[161]	train-logloss:0.032989	valid-logloss:0.033181
+[162]	train-logloss:0.032568	valid-logloss:0.03276
+[163]	train-logloss:0.032171	valid-logloss:0.032366
+[164]	train-logloss:0.031764	valid-logloss:0.031957
+[165]	train-logloss:0.031367	valid-logloss:0.031563
+[166]	train-logloss:0.030978	valid-logloss:0.03117
+[167]	train-logloss:0.030609	valid-logloss:0.030805
+[168]	train-logloss:0.030234	valid-logloss:0.030427
+[169]	train-logloss:0.029866	valid-logloss:0.03006
+[170]	train-logloss:0.029526	valid-logloss:0.029717
+[171]	train-logloss:0.029173	valid-logloss:0.029362
+[172]	train-logloss:0.028832	valid-logloss:0.029024
+[173]	train-logloss:0.028495	valid-logloss:0.028691
+[174]	train-logloss:0.028173	valid-logloss:0.028371
+[175]	train-logloss:0.027874	valid-logloss:0.028074
+[176]	train-logloss:0.027567	valid-logloss:0.027763
+[177]	train-logloss:0.02725	valid-logloss:0.027445
+[178]	train-logloss:0.026965	valid-logloss:0.027158
+[179]	train-logloss:0.026678	valid-logloss:0.026867
+[180]	train-logloss:0.026388	valid-logloss:0.026574
+[181]	train-logloss:0.026118	valid-logloss:0.026305
+[182]	train-logloss:0.025845	valid-logloss:0.026034
+[183]	train-logloss:0.025586	valid-logloss:0.025776
+[184]	train-logloss:0.025324	valid-logloss:0.025516
+[185]	train-logloss:0.02506	valid-logloss:0.025253
+[186]	train-logloss:0.024792	valid-logloss:0.024983
+[187]	train-logloss:0.024528	valid-logloss:0.024717
+[188]	train-logloss:0.024283	valid-logloss:0.024474
+[189]	train-logloss:0.024042	valid-logloss:0.024234
+[190]	train-logloss:0.023807	valid-logloss:0.024002
+[191]	train-logloss:0.023597	valid-logloss:0.023794
+[192]	train-logloss:0.023375	valid-logloss:0.023571
+[193]	train-logloss:0.023173	valid-logloss:0.023371
+[194]	train-logloss:0.022971	valid-logloss:0.023171
+[195]	train-logloss:0.022764	valid-logloss:0.022961
+[196]	train-logloss:0.022551	valid-logloss:0.022747
+[197]	train-logloss:0.022343	valid-logloss:0.022538
+[198]	train-logloss:0.022132	valid-logloss:0.022325
+[199]	train-logloss:0.021943	valid-logloss:0.022137
+0.0202593 0.96238 0.00894796
+(968433,)
+6897
